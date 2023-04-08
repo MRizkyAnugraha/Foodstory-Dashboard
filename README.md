@@ -8,8 +8,8 @@ This project was assigned as part of the Refocus Data Analyst Course and involve
 
 The project involved the following steps:
 
--Cleaning the dataset from Foodstory
--Analyzing sales data at various levels, including Branch, Customer, and Menu
--Collaborating within a team to identify critical insights from the dataset and incorporating them into the dashboard
--Creating visualizations based on the insights gathered
--Providing recommendations based on the insights and presenting them to the client through PowerPoint and PowerBI dashboard.
+-Cleaning the dataset from Foodstory  
+-Analyzing sales data at various levels, including Branch, Customer, and Menu  
+-Collaborating within a team to identify critical insights from the dataset and incorporating them into the dashboard  
+-Creating visualizations based on the insights gathered  
+-Providing recommendations based on the insights and presenting them to the client through PowerPoint and PowerBI dashboard.  
